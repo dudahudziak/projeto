@@ -1,12 +1,14 @@
-# Nome do Projeto
+# Patinhas Felizes - Clínica Veterinária
 
-Descrição curta do projeto.
+Projeto de um site para uma clínica veterinária, apenas para testes e estudo subre pipeline e CI/CD
 
-🔗 **Site publicado:** https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+🔗 **Site publicado:** https://dudahudziak.github.io/projeto/
 
 ## Como rodar
+```bash
 npm install
 npm run dev
+```
 
 ## Scripts
 - `npm run lint`: verifica o código com ESLint
